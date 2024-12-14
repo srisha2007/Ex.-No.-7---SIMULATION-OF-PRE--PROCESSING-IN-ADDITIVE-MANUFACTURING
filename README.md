@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 14/12/2024
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -39,14 +39,23 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![Screenshot 2024-12-14 092724](https://github.com/user-attachments/assets/9e32f208-9bc6-47e0-992a-3a24862768af)
+![Screenshot 2024-12-14 092736](https://github.com/user-attachments/assets/fe4db03d-7693-470e-a2bd-fb1250129766)
+![Screenshot 2024-12-14 092757](https://github.com/user-attachments/assets/4c3b11ab-1f1c-43af-ae87-db19d7e051c4)
+![Screenshot 2024-12-14 092804](https://github.com/user-attachments/assets/9da40e06-0cb5-4882-bdbe-f603183e798c)
+![Screenshot 2024-12-14 092818](https://github.com/user-attachments/assets/eebd638b-26ea-413f-b5d8-4b6a877fb213)
+![Screenshot 2024-12-14 092837](https://github.com/user-attachments/assets/b1cfb473-9d1b-4f10-990c-81afdbb3234d)
 
 ## Output:
+![Screenshot 2024-12-14 083846](https://github.com/user-attachments/assets/9a4e4464-68a7-4445-b03b-bc999ab0f539)
+![Screenshot 2024-12-14 092922](https://github.com/user-attachments/assets/57cfacf1-ac75-4f1e-99f6-67f8f4cd9f94)
+![Screenshot 2024-12-14 092930](https://github.com/user-attachments/assets/02faa8e8-b37b-43ee-85cb-5de82f23829a)
+![Screenshot 2024-12-14 092938](https://github.com/user-attachments/assets/be9d14bc-9292-4e9f-89fc-85b80dc90e48)
+![Screenshot 2024-12-14 092945](https://github.com/user-attachments/assets/b43d81f1-baef-4e8a-b468-4e52b5e59c09)
+![Screenshot 2024-12-14 092952](https://github.com/user-attachments/assets/0e4c27de-ec90-4b39-9d18-9b4b19a8d31f)
 
-### Name:
-### Register Number:
+### Name:Srisha.M
+### Register Number:24901268
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
